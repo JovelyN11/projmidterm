@@ -19,7 +19,7 @@ class PieceWorker extends Employee {
         return $this->itemsProduced;
     }
 
-    public function getWagePerItem {
+    public function getWagePerItem() {
         return $this->wagePerItem;
     }
 }
