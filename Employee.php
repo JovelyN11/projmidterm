@@ -14,7 +14,7 @@ abstract class Employee extends Person {
     public function getName() {
         return $this->name;
     }
-    public function get {
+    public function getAddress() {
         return $this->address;
     }
 
